@@ -1,14 +1,8 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hahawait&layout=compact)](https://github.com/hahawait/github-readme-stats)
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=raenkoag24&theme=dark)](https://github.com/raenkoag24/leetcode-stats)
 
 
 ### Обо мне:  
@@ -69,6 +63,9 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hahawait&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hahawait&layout=compact)](https://github.com/hahawait/github-readme-stats)
+
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=raenkoag24&theme=dark)](https://github.com/raenkoag24/leetcode-stats)
 
 <br/>  
 
