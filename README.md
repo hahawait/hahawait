@@ -59,14 +59,18 @@
   
 </div>  
   
-  
-
-
 
 <br/>  
 
-
 ## Github Stats  
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hahawait&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hahawait&layout=compact)](https://github.com/hahawait/github-readme-stats)
