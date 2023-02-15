@@ -4,6 +4,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hahawait&layout=compact)](https://github.com/hahawait/github-readme-stats)
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=raenkoag24&theme=dark)](https://github.com/raenkoag24/leetcode-stats)
 
 
 ### Обо мне:  
