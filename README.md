@@ -68,15 +68,8 @@
 
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=raenkoag24&theme=dark)](https://github.com/raenkoag24/leetcode-stats)
 
-<br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
+<br/>   
 
 <br/>  
 
@@ -91,4 +84,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
