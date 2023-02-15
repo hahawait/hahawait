@@ -65,8 +65,9 @@
 ## Github Stats  
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hahawait&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hahawait&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hahawait&theme=solarized_dark)
 
